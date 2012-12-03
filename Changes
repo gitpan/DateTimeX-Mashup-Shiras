@@ -8,3 +8,13 @@ v0.007_003 2012-04-19 10:36:44 America/Los_Angeles
 
 Changed the documentation slightly and added three 
 position versions.
+
+v0.007_005 2012-12-03 11:07:42 America/Los_Angeles
+
+Moved Smart::Comments into an if Block
+Changed the smart comment that indicates if it is 
+turned on.
+
+v0.007_007 2012-12-03 11:46:30 America/Los_Angeles
+
+Updated the Readme to POD format
