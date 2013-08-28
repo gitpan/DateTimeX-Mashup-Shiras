@@ -18,3 +18,8 @@ turned on.
 v0.007_007 2012-12-03 11:46:30 America/Los_Angeles
 
 Updated the Readme to POD format
+
+0.014.002 2013-08-28 13:33:38 America/Los_Angeles
+
+Rolled to production versions and updated the POD with 
+some additional details
