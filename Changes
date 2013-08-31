@@ -23,3 +23,9 @@ Updated the Readme to POD format
 
 Rolled to production versions and updated the POD with 
 some additional details
+
+0.020.002 2013-08-31 10:31:25 America/Los_Angeles
+
+Adding use 5.008 for Kwalitee
+bringing versions consistent for Kwalitee
+Adding a provides section in the META file for Kwalitee
