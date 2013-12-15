@@ -43,3 +43,7 @@ v0.22.2   2013-12-11 08:19:56 America/Los_Angeles
 v0.22.4   2013-12-11 14:59:26 America/Los_Angeles
 
 - Fixed a typo in the Smart_Comments
+
+v0.24.2   2013-12-15 00:22:19 America/Los_Angeles
+
+- Added a fourth date attribute
