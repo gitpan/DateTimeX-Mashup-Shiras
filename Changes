@@ -47,3 +47,8 @@ v0.22.4   2013-12-11 14:59:26 America/Los_Angeles
 v0.24.2   2013-12-15 00:22:19 America/Los_Angeles
 
 - Added a fourth date attribute
+
+v0.26.2   2014-04-04 18:37:42 America/Los_Angeles
+
+- Added a requirement for DateTime::TimeZone 1.64 to 
+	fix a failing bug in Open BSD
