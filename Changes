@@ -52,3 +52,8 @@ v0.26.2   2014-04-04 18:37:42 America/Los_Angeles
 
 - Added a requirement for DateTime::TimeZone 1.64 to 
 	fix a failing bug in Open BSD
+
+v0.28.2   2014-04-06 15:46:03 America/Los_Angeles
+
+- Removed the setting for local timezone since it fails OpenBSD
+	
