@@ -2,7 +2,7 @@ package DateTimeX::Mashup::Shiras;
 BEGIN {
   $DateTimeX::Mashup::Shiras::AUTHORITY = 'cpan:JANDREW';
 }
-use version 0.94; our $VERSION = qv("v0.30.2");
+use version 0.94; our $VERSION = qv("v0.30.4");
 
 use Moose::Role;
 use 5.010;

@@ -70,3 +70,7 @@ v0.30.2   2014-07-29 15:28:07-07:00 America/Los_Angeles
 	+ Switched from MooseX::ClassCompositor to MooseX::ShortCut::BuildInstance
 	+ Rewrote the POD to support the new exported named coercions and the
 		requirement for using ->plus_coercions
+
+v0.30.4   2014-07-29 21:07:23-07:00 America/Los_Angeles
+
+	! Fixed a dependancy level requirement not correct the META files
