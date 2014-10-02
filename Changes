@@ -73,4 +73,10 @@ v0.30.2   2014-07-29 15:28:07-07:00 America/Los_Angeles
 
 v0.30.4   2014-07-29 21:07:23-07:00 America/Los_Angeles
 
-	! Fixed a dependancy level requirement not correct the META files
+	! Fixed a dependancy level requirement not correct in the META files
+
+v0.31_1   2014-10-01 22:46:55-07:00 America/Los_Angeles
+
+	+ Switched to run MooseX::Role::Parameterized
+		This allows a configurable number and naming of attributes
+		The old for attributes are default for backwards compatibility
