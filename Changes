@@ -80,3 +80,7 @@ v0.31_1   2014-10-01 22:46:55-07:00 America/Los_Angeles
 	+ Switched to run MooseX::Role::Parameterized
 		This allows a configurable number and naming of attributes
 		The old for attributes are default for backwards compatibility
+
+v0.32.2   2014-10-02 07:11:19-07:00 America/Los_Angeles
+
+	+ Rolling to a production revision since there are no obvious failures on CPAN

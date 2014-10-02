@@ -2,7 +2,7 @@ package DateTimeX::Mashup::Shiras;
 BEGIN {
   $DateTimeX::Mashup::Shiras::AUTHORITY = 'cpan:JANDREW';
 }
-use version 0.94; our $VERSION = qv("v0.31_1");
+use version 0.94; our $VERSION = qv("v0.32.2");
 
 if( $ENV{ Smart_Comments } ){
 	use Smart::Comments -ENV;
