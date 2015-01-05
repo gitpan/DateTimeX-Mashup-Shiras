@@ -1,5 +1,9 @@
 Revision history for DateTimeX::Mashup::Shiras
 
+v0.32.6   2015-01-05 10:11:00-08:00 America/Los_Angeles
+
+	! Properly attributed the tobyink contribution
+
 v0.32.4   2015-01-05 08:06:14-08:00 America/Los_Angeles
 
 	! Added MooseX::ShortCut::BuildInstance minimum version dependancy so that 
